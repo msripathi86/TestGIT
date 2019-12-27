@@ -19,7 +19,7 @@ public class HRM_Login {
 		String expTitle = "OrangeHRM";
 		Assert.assertTrue(actTitle.equals(expTitle));
 		//assert.assertFalse(actTitle.equals(expTitle));	
-	//	driver.quit();
+	driver.quit();
 		
 	}
 
